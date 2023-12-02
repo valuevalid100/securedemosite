@@ -37,3 +37,7 @@ git tag -a v1.0 "1st Release"
 # push with tag to remote repo
 
 git push origin v1.0
+
+# create branch1 and swtich to branch1
+
+git checkout -b branch1
