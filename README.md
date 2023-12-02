@@ -32,4 +32,8 @@ git push origin main
 
 # added tag
 
-git tag -a "1st Release"
+git tag -a v1.0 "1st Release"
+
+# push with tag to remote repo
+
+git push origin v1.0
