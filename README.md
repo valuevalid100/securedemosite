@@ -41,3 +41,7 @@ git push origin v1.0
 # create branch1 and swtich to branch1
 
 git checkout -b branch1
+
+# pull from remote repo (here pull from branch1 to main. switch to branch1 before pull)
+
+git pull origin main
